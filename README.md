@@ -1,0 +1,2 @@
+# Smart-Industrial-Safety-Monitoring-System-Using-LPC2129
+An embedded-based industrial safety monitoring system using the LPC2129 ARM7 microcontroller to monitor environmental conditions, detect hazardous situations, and provide real-time alerts. The system enhances workplace safety through sensor integration, continuous monitoring, and automated warning mechanisms to prevent industrial accidents.
